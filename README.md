@@ -1,4 +1,4 @@
-# internship
+# Cryptojacking at the start of 2020
 
 In this repo you will find several tools that were used to automate the detection of cryptojacking sites.
 This research was performed in two parts:
